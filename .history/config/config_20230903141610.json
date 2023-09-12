@@ -1,0 +1,22 @@
+{
+    "development": {
+      "username": "your_database_username",
+      "password": "your_database_password",
+      "database": "your_database_name",
+      "host": "localhost",
+      "dialect": "mysql",
+      "port": 3306
+    },
+    "test": {
+      "username": "your_test_database_username",
+      "password": "your_test_database_password",
+      "database": "your_test_database_name",
+      "host": "localhost",
+      "dialect": "mysql",
+      "port": 3306
+    },
+    "production": {
+      "use_env_variable": "JAWSDB_URL", // This is for Heroku deployment
+      "dialect": "mysql"
+    }
+  }

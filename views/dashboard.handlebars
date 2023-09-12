@@ -1,0 +1,10 @@
+{{#extend 'layouts/main'}}
+
+{{#content "main"}}
+  <h3>Welcome to your dashboard!</h3>
+  {{#if loggedIn}}
+    {{{body}}}
+  {{else}}
+    <p>Please <a href="/login">log in</a> to access your dashboard.</p>
+  {{/if}}
+{{/content}}

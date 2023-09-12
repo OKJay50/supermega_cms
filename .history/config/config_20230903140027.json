@@ -1,0 +1,4 @@
+const config = require('./config/config.json');
+
+// Now you can access properties from the config.json file like this:
+console.log(config.propertyName);
