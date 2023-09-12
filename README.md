@@ -134,4 +134,4 @@ No automated tests are provided at the moment. Testing can be added as needed.
 
 If you have any questions or need further assistance with the application, please [open an issue](https://github.com/yourusername/supermega_cms/issues) on GitHub or contact me via email at demasse1125@gmail.com.
 
-You can also find more of my work on my GitHub profile: [https://github.com/yourusername](https://github.com/OKJay50.
+You can also find more of my work on my GitHub profile: [https://github.com/OKJay50](https://github.com/OKJay50.
